@@ -33,7 +33,7 @@ Il dataset Drosophila Melanogaster è composto da 284 nodi e 297 archi.
 
 [Dataset Neo4J](https://github.com/giuliapalmaa/Modularity-Optimization-for-PPI-Networks/blob/main/Dataset%20Neo4j)| Contenuto
 ------------ | -------------
-[archiBest](https://github.com/giuliapalmaa/Modularity-Optimization-for-PPI-Networks/blob/main/Dataset%20Neo4j/archiBest.csv) | file con lista degli archi del dataset con miglire modularità
+[archiBest](https://github.com/giuliapalmaa/Modularity-Optimization-for-PPI-Networks/blob/main/Dataset%20Neo4j/archiBest.csv) | file con lista degli archi del dataset con migliore modularità
 [archiFirst](https://github.com/giuliapalmaa/Modularity-Optimization-for-PPI-Networks/blob/main/Dataset%20Neo4j/archiFirst.csv) | file con lista degli archi del dataset iniziale
 [archiLast](https://github.com/giuliapalmaa/Modularity-Optimization-for-PPI-Networks/blob/main/Dataset%20Neo4j/archiLast.csv) | file con lista degli archi del dataset all'ultima iterazione dell'algoritmo
 [nodiBesteFirst](https://github.com/giuliapalmaa/Modularity-Optimization-for-PPI-Networks/blob/main/Dataset%20Neo4j/nodiBesteFirst.csv) | file con lista dei nodi del dataset iniziale e con migliore modularità
